@@ -1,4 +1,7 @@
+@import url('./reset.css');
+@import url('./services.css');
+
 body {
-  /* font-family: 'Mina', sans-serif; */
+  font-family: 'Mina', sans-serif;
   word-break: break-word;
 }
